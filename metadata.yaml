@@ -1,0 +1,29 @@
+_repo: First-Across-the-Continent--13-The-Story-of-the-Exploring-Expedition-of-Lewis-and-Clark-in-180__1236
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brooks, Noah
+    birthdate: 1830
+    deathdate: 1903
+    gutenberg_agent_id: '568'
+    url: http://www.gutenberg.org/2009/agents/568
+    wikipedia: http://en.wikipedia.org/wiki/Noah_Brooks
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2006-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcc 'F590.3'
+- !lcsh 'United States -- Discovery and exploration'
+- !lcsh 'Lewis and Clark Expedition (1804-1806)'
+- GITenberg
+title: "First Across the Continent\r\nThe Story of the Exploring Expedition of Lewis\
+  \ and Clark in 1804-5-6"
+url: http://www.gutenberg.org/ebooks/1236
